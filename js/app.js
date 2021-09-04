@@ -32,3 +32,8 @@ const displayTemp = temp =>
     weatherIcon.setAttribute('src', url);
 
 }
+
+/* 
+-error handling
+-change background
+ */
